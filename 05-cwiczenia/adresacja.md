@@ -9,13 +9,13 @@
 ### Jak policzyć?
 #### Adres sieci
 
-1. 
-2.
+1. Zamieniamy dec -> Bin
+2. Mnożymy binarnie maski i adresu
 3.
 
 #### Adres rozgłoszeniowy
 
-1. 
+1. Odwrotność Maski
 2.
 3.
 
